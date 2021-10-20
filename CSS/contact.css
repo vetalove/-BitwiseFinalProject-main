@@ -1,14 +1,16 @@
+
+
+nav li {
+    list-style-type: none;
+    margin-right: 75%;
+    padding: 0;
+    
+
+}
+
 h1 {
     color: red;
     font-family: 'Shadows Into Light', cursive;
     margin-left: 30%; 
     font-size: 50px;
-}
-
-nav li {
-    list-style-type: none;
-   
-    
-    
-
 }
