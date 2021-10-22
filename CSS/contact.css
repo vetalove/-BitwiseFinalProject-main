@@ -1,14 +1,42 @@
 
+body {
+    margin: 0px;
+}
 
-nav  li {
+li {
     list-style-type: none;
-    margin-right: 75%;
-    padding: 0;
+    margin: 25px auto;
+    display: inline-block;
 }
 
 h1 {
     color: rgb(34, 120, 155);
     font-family: 'Shadows Into Light', cursive;
-    margin-left: 30%; 
     font-size: 50px;
+    text-align: center;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.topnav {
+    text-align: center;
+}
+
+
+.topimg {
+    margin: 0px;
+    width: auto;
+    height: auto;
+    margin-bottom: 250px;
+}
+
+.logo {
+    text-align: center;
+}
+
+ul {
+    float: right;
 }
