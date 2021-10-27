@@ -8,6 +8,7 @@ li {
     margin: 0px auto;
     display: inline-block;
     font-family: 'Shadows Into Light', cursive;
+    font-size: 150%;
 }
 
 h1,h2 {
@@ -26,6 +27,7 @@ a {
 
 .topnav {
     text-align: center;
+    
 }
 
 .topimg {
@@ -45,6 +47,16 @@ a {
 ul {
     float: right; 
    }
+
+.footer {
+    font-family: 'Shadows Into Light', cursive;
+}
+
+p {
+    text-align: center;
+    font-size: 35px;
+    
+}
 
 
   
