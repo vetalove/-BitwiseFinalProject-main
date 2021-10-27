@@ -1,5 +1,6 @@
 body {
     margin: 0px;
+    background-color: lightblue;
 }
 
 li {
@@ -18,7 +19,10 @@ h1 {
 a {
     display: inline-block;
     text-decoration: none;
-    color: rgb(34, 120, 155);  
+    color: rgb(34, 120, 155);
+    margin: 40px;
+    
+     
 }
 
 .topnav {
@@ -29,12 +33,12 @@ a {
     margin: 0px;
     width: auto;
     height: auto;
-    margin-bottom: 250px;
+  
 }
 
 .logo { 
     margin: 0px;
-    padding: auto;
+    padding: 10px;
     
 }
 
