@@ -8,22 +8,20 @@ li {
     margin: 0px auto;
     display: inline-block;
     font-family: 'Shadows Into Light', cursive;
-   
 }
 
-h1 {
+h1,h2 {
     color: rgb(34, 120, 155);
-    font-size: 50px;
-    text-align: center;
     font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
+    text-align: center;
 }
 
 a {
     display: inline-block;
     text-decoration: none;
     color: rgb(34, 120, 155);
-    margin: 40px; 
-    padding: 0;   
+    margin: 40px;    
 }
 
 .topnav {
@@ -31,10 +29,12 @@ a {
 }
 
 .topimg {
-    margin: 150px;
-    padding: 100px;
+    margin: 100px;
+    padding: 150px;
     width: auto;
-    height: auto;  
+    height: auto;
+    
+  
 }
 
 .logo { 
@@ -44,6 +44,7 @@ a {
 
 ul {
     float: right; 
-   
    }
 
+
+  
