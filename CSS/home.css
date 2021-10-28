@@ -39,18 +39,12 @@ a {
   
 }
 
-.logo { 
-    margin: 0px;
-    padding: 10px;    
-}
-
 ul {
     float: right; 
    }
 
 .footer {
-    font-family: 'Shadows Into Light', cursive;
-    
+    font-family: 'Shadows Into Light', cursive;    
 }
 
 p {
